@@ -1,0 +1,64 @@
+{
+  "target": "quantidade",
+  "selecao": "Menor MAE medio dos 3 folds temporais, entre os 3 modelos ML; baseline separado.",
+  "modelo_selecionado": "RandomForest",
+  "seed": 42,
+  "treino_n": 476,
+  "teste_n": 116,
+  "treino_inicio": "2025-01-01",
+  "treino_fim": "2025-10-16",
+  "teste_inicio": "2025-10-17",
+  "teste_fim": "2025-12-31",
+  "features_numericas": 18,
+  "campos_categoricos": 6,
+  "features_apos_encoding": 43,
+  "comparacao": [
+    {
+      "modelo": "Ridge",
+      "CV_MAE_media": 3.160291551715375,
+      "CV_MAE_desvio": 0.17527045173556985,
+      "MAE": 2.788391519208226,
+      "RMSE": 3.4455617974395656,
+      "R2": -0.331468289627878,
+      "selecionado_por_CV": false
+    },
+    {
+      "modelo": "RandomForest",
+      "CV_MAE_media": 3.0753163524010865,
+      "CV_MAE_desvio": 0.06703692947042239,
+      "MAE": 2.618156032600295,
+      "RMSE": 3.2223268667296945,
+      "R2": -0.16452797329084268,
+      "selecionado_por_CV": true
+    },
+    {
+      "modelo": "HistGradientBoosting",
+      "CV_MAE_media": 3.1832669247435788,
+      "CV_MAE_desvio": 0.028612883781978807,
+      "MAE": 2.903426143816991,
+      "RMSE": 3.62555319351507,
+      "R2": -0.47420983225733293,
+      "selecionado_por_CV": false
+    },
+    {
+      "modelo": "BaselineMedia",
+      "CV_MAE_media": 3.0692932246578586,
+      "CV_MAE_desvio": 0.14021560342176473,
+      "MAE": 2.5229643581570556,
+      "RMSE": 3.0382878209334687,
+      "R2": -0.03530560707620567,
+      "selecionado_por_CV": false
+    }
+  ],
+  "modelo_recarregado_previsoes_iguais": true,
+  "versoes": {
+    "python": "3.12.14",
+    "sklearn": "1.7.2",
+    "pandas": "2.2.3",
+    "numpy": "2.2.6"
+  },
+  "limitacao": "Dados ficticios M3; correlacoes fracas e R2 negativo sao resultados validos. Nao comprova utilidade em producao.",
+  "protocolo_temporal": "Dias inteiros em folds; nenhuma linha do mesmo dia atravessa fronteira. Historico previo estrito por dia.",
+  "target_excluido_X": true,
+  "valor_total_excluido_X": true
+}

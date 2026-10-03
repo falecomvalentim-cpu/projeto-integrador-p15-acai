@@ -1,0 +1,1 @@
+Regiao imediata: agrupamento territorial oficial do IBGE, integrado por municipio+UF. Categoria adicional no one-hot, aprendido somente no treino. Codigo municipal: chave da dimensao, excluido do modelo numerico. Os demais atributos e suas formulas seguem features_m5.csv e src/features.py.

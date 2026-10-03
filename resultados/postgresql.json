@@ -1,0 +1,12 @@
+{
+  "executado": true,
+  "versao": "PostgreSQL 17.11 on x86_64-windows, compiled by msvc-19.44.35228, 64-bit",
+  "schema": "p15",
+  "registros": 592,
+  "receita": "130405.70",
+  "raw_releitura_igual": true,
+  "dataset_releitura_igual": true,
+  "municipios_ibge": 5,
+  "vendas_integradas_ibge": 592,
+  "commit_confirmado": true
+}

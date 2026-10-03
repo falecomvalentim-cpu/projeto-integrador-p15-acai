@@ -1,0 +1,20 @@
+{
+  "ibge": {
+    "url": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios/1600303|1600600|1501402|1506807|1302603",
+    "documentacao": "https://servicodados.ibge.gov.br/api/docs/localidades",
+    "coletado_em_utc": "2026-10-03T20:54:22.487421+00:00",
+    "metodo": "GET HTTPS; resposta JSON original preservada",
+    "sha256": "ba4f40aa3da933efee7a726902e276885bd89f35744543416bc80c17ac77fe6a",
+    "registros": 5
+  },
+  "m3": {
+    "origem": "Base fictícia da atividade M3, reutilizada da M5",
+    "metodo": "Cópia local dos arquivos originais, sem alterar bytes",
+    "natureza": "Vendas, clientes e produtos simulados; uma única origem",
+    "arquivos": {
+      "vendas.csv": "dcd81c0e2639f112c3e3cb93dd5665bfe095fec2e62e7c151d38f30a5f593ef2",
+      "clientes.json": "46cc431265ac65fbcc05bcf1168be2f6ee4f25e48047a6e90f6635e413fabb0f",
+      "produtos.csv": "9022b0e74cf47c39f53c36b26cd0c3a13036446a64b58dae120b6f8a83f30cdf"
+    }
+  }
+}

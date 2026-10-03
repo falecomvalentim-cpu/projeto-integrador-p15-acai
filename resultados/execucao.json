@@ -1,0 +1,9 @@
+{
+  "concluido": true,
+  "duas_origens": [
+    "M3 fictícia",
+    "IBGE Localidades"
+  ],
+  "fluxo": "Fontes -> raw PostgreSQL -> ETL Python -> tabelas PostgreSQL -> features -> ML -> métricas",
+  "modelo": "RandomForest"
+}

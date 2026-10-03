@@ -1,0 +1,24 @@
+feature,construcao,significado,disponibilidade
+mes,mes da data,Estacionalidade mensal,contexto conhecido
+dia_semana,segunda=0 a domingo=6,Padrão semanal,contexto conhecido
+dia_mes,dia do calendário,Padrão intramensal,contexto conhecido
+dia_ano,ordinal 1 a 365,Posição no ano,contexto conhecido
+trimestre,trimestre 1 a 4,Estacionalidade trimestral,contexto conhecido
+fim_semana,1 se sábado ou domingo,Efeito de fim de semana,contexto conhecido
+mes_sin,seno de 2*pi*mes/12,Codificação cíclica mensal,contexto conhecido
+mes_cos,cosseno de 2*pi*mes/12,Codificação cíclica mensal,contexto conhecido
+semana_sin,seno de 2*pi*dia_semana/7,Codificação cíclica semanal,contexto conhecido
+semana_cos,cosseno de 2*pi*dia_semana/7,Codificação cíclica semanal,contexto conhecido
+preco_unitario,preço ofertado validado,Preço conhecido antes da quantidade,contexto conhecido
+cliente_vendas_previas,contagem de vendas anteriores do cliente,Frequência histórica,apenas dias anteriores
+cliente_media_qtd_previa,média histórica suavizada do cliente,Volume habitual,apenas dias anteriores
+cliente_dias_desde_ultima,dias desde última venda anterior ou 365,Recência,apenas dias anteriores
+produto_vendas_previas,contagem anterior do produto,Frequência histórica do produto,apenas dias anteriores
+produto_media_qtd_previa,média anterior suavizada do produto,Volume habitual do produto,apenas dias anteriores
+municipio_vendas_previas,contagem anterior no município,Atividade histórica local,apenas dias anteriores
+global_media_qtd_previa,média anterior global suavizada,Referência histórica global,apenas dias anteriores
+produto_id,OneHotEncoder,Identidade do produto,cadastro conhecido
+categoria,OneHotEncoder,Categoria do produto,cadastro conhecido
+segmento,OneHotEncoder,Segmento do cliente,cadastro conhecido
+municipio,OneHotEncoder,Local de venda,contexto conhecido
+uf,OneHotEncoder,Estado da venda,contexto conhecido

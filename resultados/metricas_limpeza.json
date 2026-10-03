@@ -1,0 +1,67 @@
+{
+  "antes": {
+    "registros": 740,
+    "ausentes_por_coluna": {
+      "venda_id": 0,
+      "cliente_id": 0,
+      "produto_id": 0,
+      "data": 0,
+      "municipio": 0,
+      "uf": 0,
+      "quantidade": 0,
+      "preco_unitario": 21
+    },
+    "duplicatas_linha_completa": 20,
+    "duplicatas_id_normalizado": 20,
+    "inconsistencias_independentes": {
+      "quantidade_invalida": 37,
+      "data_invalida": 30,
+      "cliente_desconhecido": 22,
+      "preco_invalido": 21,
+      "produto_desconhecido": 19
+    }
+  },
+  "depois": {
+    "registros": 592,
+    "ausentes_por_coluna": {
+      "uf": 0,
+      "data": 0,
+      "venda_id": 0,
+      "municipio": 0,
+      "cliente_id": 0,
+      "produto_id": 0,
+      "quantidade": 0,
+      "preco_unitario": 0,
+      "valor_total": 0,
+      "segmento": 0,
+      "categoria": 0
+    },
+    "duplicatas_id": 0,
+    "receita": 130405.7
+  },
+  "rejeitadas": 148,
+  "motivos_exclusivos": {
+    "quantidade_invalida": 37,
+    "data_invalida": 30,
+    "cliente_desconhecido": 22,
+    "preco_invalido": 21,
+    "produto_desconhecido": 19,
+    "duplicada": 19
+  },
+  "campos_normalizados_em_linhas_aceitas": {
+    "venda_id": 0,
+    "cliente_id": 94,
+    "produto_id": 0,
+    "data": 125,
+    "municipio": 0,
+    "uf": 94,
+    "quantidade": 0,
+    "preco_unitario": 197
+  },
+  "politica": "Rejeitar registros invalidos; primeira ocorrencia valida por venda_id. Sem imputar target/preco.",
+  "sha256_originais": {
+    "vendas.csv": "dcd81c0e2639f112c3e3cb93dd5665bfe095fec2e62e7c151d38f30a5f593ef2",
+    "clientes.json": "46cc431265ac65fbcc05bcf1168be2f6ee4f25e48047a6e90f6635e413fabb0f",
+    "produtos.csv": "9022b0e74cf47c39f53c36b26cd0c3a13036446a64b58dae120b6f8a83f30cdf"
+  }
+}

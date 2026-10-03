@@ -1,0 +1,477 @@
+venda_id,cliente_id,produto_id,data,municipio,uf,preco_unitario,segmento,categoria,regiao_imediata
+V0456,C014,P02,2025-01-01,Macapá,AP,12.5,restaurante,congelados,Macapá
+V0275,C014,P01,2025-01-02,Belém,PA,18.9,restaurante,congelados,Belém
+V0451,C005,P03,2025-01-02,Belém,PA,12.5,restaurante,atacado,Belém
+V0088,C053,P05,2025-01-03,Santarém,PA,25.0,restaurante,complementos,Santarém
+V0191,C013,P01,2025-01-03,Santarém,PA,18.9,atacado,congelados,Santarém
+V0219,C034,P03,2025-01-03,Santana,AP,45.5,atacado,atacado,Macapá
+V0198,C040,P06,2025-01-04,Santana,AP,25.0,atacado,pronto para consumo,Macapá
+V0350,C011,P04,2025-01-04,Macapá,AP,25.0,restaurante,congelados,Macapá
+V0256,C039,P05,2025-01-06,Santana,AP,18.9,varejo,complementos,Macapá
+V0416,C049,P05,2025-01-06,Macapá,AP,45.5,atacado,complementos,Macapá
+V0239,C034,P04,2025-01-07,Santana,AP,32.4,atacado,congelados,Macapá
+V0429,C002,P01,2025-01-07,Santana,AP,32.4,restaurante,congelados,Macapá
+V0028,C001,P04,2025-01-08,Santarém,PA,12.5,atacado,congelados,Santarém
+V0091,C014,P06,2025-01-10,Macapá,AP,45.5,restaurante,pronto para consumo,Macapá
+V0383,C009,P02,2025-01-11,Macapá,AP,18.9,varejo,congelados,Macapá
+V0687,C055,P04,2025-01-11,Macapá,AP,45.5,atacado,congelados,Macapá
+V0078,C018,P05,2025-01-12,Santana,AP,12.5,varejo,complementos,Macapá
+V0361,C026,P04,2025-01-12,Santarém,PA,65.0,restaurante,congelados,Santarém
+V0038,C033,P04,2025-01-14,Belém,PA,12.5,varejo,congelados,Belém
+V0371,C019,P02,2025-01-14,Santana,AP,65.0,atacado,congelados,Macapá
+V0241,C016,P02,2025-01-15,Belém,PA,12.5,atacado,congelados,Belém
+V0454,C041,P03,2025-01-15,Macapá,AP,32.4,restaurante,atacado,Macapá
+V0573,C031,P01,2025-01-15,Manaus,AM,32.4,atacado,congelados,Manaus
+V0305,C013,P01,2025-01-16,Macapá,AP,25.0,atacado,congelados,Macapá
+V0428,C049,P05,2025-01-16,Macapá,AP,18.9,atacado,complementos,Macapá
+V0608,C052,P05,2025-01-16,Manaus,AM,32.4,atacado,complementos,Manaus
+V0510,C034,P01,2025-01-17,Belém,PA,25.0,atacado,congelados,Belém
+V0632,C003,P02,2025-01-17,Macapá,AP,25.0,varejo,congelados,Macapá
+V0677,C055,P01,2025-01-18,Santana,AP,25.0,atacado,congelados,Macapá
+V0135,C032,P02,2025-01-19,Belém,PA,65.0,restaurante,congelados,Belém
+V0281,C029,P05,2025-01-19,Santarém,PA,18.9,restaurante,complementos,Santarém
+V0698,C055,P04,2025-01-19,Santarém,PA,32.4,atacado,congelados,Santarém
+V0712,C047,P03,2025-01-19,Macapá,AP,18.9,restaurante,atacado,Macapá
+V0065,C021,P05,2025-01-20,Manaus,AM,32.4,varejo,complementos,Manaus
+V0089,C012,P01,2025-01-20,Santarém,PA,65.0,varejo,congelados,Santarém
+V0317,C034,P04,2025-01-20,Macapá,AP,65.0,atacado,congelados,Macapá
+V0313,C010,P06,2025-01-21,Manaus,AM,32.4,atacado,pronto para consumo,Manaus
+V0523,C050,P04,2025-01-21,Santana,AP,45.5,restaurante,congelados,Macapá
+V0423,C057,P02,2025-01-23,Santana,AP,65.0,varejo,congelados,Macapá
+V0616,C049,P05,2025-01-23,Belém,PA,25.0,atacado,complementos,Belém
+V0688,C001,P06,2025-01-23,Santana,AP,32.4,atacado,pronto para consumo,Macapá
+V0488,C040,P06,2025-01-24,Belém,PA,32.4,atacado,pronto para consumo,Belém
+V0612,C028,P02,2025-01-24,Santarém,PA,32.4,atacado,congelados,Santarém
+V0614,C031,P01,2025-01-24,Manaus,AM,25.0,atacado,congelados,Manaus
+V0171,C043,P05,2025-01-25,Manaus,AM,65.0,atacado,complementos,Manaus
+V0413,C028,P03,2025-01-25,Santarém,PA,25.0,atacado,atacado,Santarém
+V0541,C010,P04,2025-01-25,Santana,AP,18.9,atacado,congelados,Macapá
+V0657,C037,P03,2025-01-25,Macapá,AP,18.9,atacado,atacado,Macapá
+V0349,C001,P06,2025-01-26,Macapá,AP,25.0,atacado,pronto para consumo,Macapá
+V0663,C055,P03,2025-01-28,Santana,AP,45.5,atacado,atacado,Macapá
+V0157,C023,P05,2025-01-30,Macapá,AP,12.5,restaurante,complementos,Macapá
+V0121,C047,P02,2025-01-31,Belém,PA,32.4,restaurante,congelados,Belém
+V0358,C032,P06,2025-02-01,Santarém,PA,18.9,restaurante,pronto para consumo,Santarém
+V0650,C058,P04,2025-02-02,Santarém,PA,18.9,atacado,congelados,Santarém
+V0674,C059,P01,2025-02-02,Manaus,AM,65.0,restaurante,congelados,Manaus
+V0678,C002,P03,2025-02-02,Manaus,AM,45.5,restaurante,atacado,Manaus
+V0357,C057,P02,2025-02-04,Manaus,AM,65.0,varejo,congelados,Manaus
+V0285,C037,P04,2025-02-05,Macapá,AP,32.4,atacado,congelados,Macapá
+V0339,C057,P01,2025-02-05,Macapá,AP,12.5,varejo,congelados,Macapá
+V0531,C053,P06,2025-02-05,Belém,PA,12.5,restaurante,pronto para consumo,Belém
+V0302,C021,P03,2025-02-06,Santarém,PA,32.4,varejo,atacado,Santarém
+V0508,C006,P04,2025-02-06,Macapá,AP,45.5,varejo,congelados,Macapá
+V0389,C008,P02,2025-02-07,Santarém,PA,65.0,restaurante,congelados,Santarém
+V0486,C001,P03,2025-02-07,Manaus,AM,45.5,atacado,atacado,Manaus
+V0477,C052,P04,2025-02-08,Santarém,PA,45.5,atacado,congelados,Santarém
+V0487,C028,P01,2025-02-08,Belém,PA,45.5,atacado,congelados,Belém
+V0004,C019,P01,2025-02-11,Manaus,AM,12.5,atacado,congelados,Manaus
+V0627,C058,P05,2025-02-12,Santana,AP,32.4,atacado,complementos,Macapá
+V0635,C045,P01,2025-02-12,Manaus,AM,12.5,varejo,congelados,Manaus
+V0351,C032,P01,2025-02-14,Santarém,PA,32.4,restaurante,congelados,Santarém
+V0649,C027,P03,2025-02-15,Macapá,AP,25.0,varejo,atacado,Macapá
+V0197,C042,P01,2025-02-16,Belém,PA,18.9,varejo,congelados,Belém
+V0304,C042,P02,2025-02-16,Santarém,PA,18.9,varejo,congelados,Santarém
+V0119,C050,P04,2025-02-18,Belém,PA,65.0,restaurante,congelados,Belém
+V0306,C032,P05,2025-02-18,Belém,PA,25.0,restaurante,complementos,Belém
+V0024,C045,P06,2025-02-20,Santarém,PA,32.4,varejo,pronto para consumo,Santarém
+V0636,C009,P02,2025-02-21,Manaus,AM,12.5,varejo,congelados,Manaus
+V0652,C018,P06,2025-02-21,Manaus,AM,12.5,varejo,pronto para consumo,Manaus
+V0104,C005,P04,2025-02-24,Santarém,PA,65.0,restaurante,congelados,Santarém
+V0630,C016,P03,2025-02-27,Manaus,AM,12.5,atacado,atacado,Manaus
+V0461,C046,P03,2025-02-28,Macapá,AP,45.5,atacado,atacado,Macapá
+V0556,C052,P06,2025-02-28,Belém,PA,65.0,atacado,pronto para consumo,Belém
+V0646,C054,P01,2025-02-28,Santarém,PA,18.9,varejo,congelados,Santarém
+V0164,C023,P06,2025-03-01,Santana,AP,12.5,restaurante,pronto para consumo,Macapá
+V0194,C036,P06,2025-03-01,Manaus,AM,32.4,varejo,pronto para consumo,Manaus
+V0244,C026,P01,2025-03-01,Macapá,AP,18.9,restaurante,congelados,Macapá
+V0396,C018,P05,2025-03-02,Belém,PA,12.5,varejo,complementos,Belém
+V0664,C007,P01,2025-03-02,Santana,AP,65.0,atacado,congelados,Macapá
+V0106,C034,P02,2025-03-03,Santarém,PA,45.5,atacado,congelados,Santarém
+V0314,C059,P06,2025-03-03,Santarém,PA,65.0,restaurante,pronto para consumo,Santarém
+V0331,C004,P05,2025-03-03,Belém,PA,65.0,atacado,complementos,Belém
+V0387,C047,P06,2025-03-03,Belém,PA,12.5,restaurante,pronto para consumo,Belém
+V0016,C045,P04,2025-03-04,Santana,AP,65.0,varejo,congelados,Macapá
+V0710,C048,P02,2025-03-04,Belém,PA,25.0,varejo,congelados,Belém
+V0076,C035,P01,2025-03-06,Santana,AP,18.9,restaurante,congelados,Macapá
+V0234,C025,P06,2025-03-06,Manaus,AM,32.4,atacado,pronto para consumo,Manaus
+V0287,C013,P03,2025-03-07,Macapá,AP,32.4,atacado,atacado,Macapá
+V0495,C022,P05,2025-03-07,Belém,PA,65.0,atacado,complementos,Belém
+V0623,C011,P06,2025-03-07,Belém,PA,18.9,restaurante,pronto para consumo,Belém
+V0718,C014,P01,2025-03-07,Santarém,PA,12.5,restaurante,congelados,Santarém
+V0014,C046,P05,2025-03-08,Santana,AP,12.5,atacado,complementos,Macapá
+V0401,C012,P02,2025-03-08,Macapá,AP,18.9,varejo,congelados,Macapá
+V0149,C037,P01,2025-03-09,Santana,AP,65.0,atacado,congelados,Macapá
+V0097,C013,P06,2025-03-10,Belém,PA,32.4,atacado,pronto para consumo,Belém
+V0131,C002,P03,2025-03-10,Manaus,AM,12.5,restaurante,atacado,Manaus
+V0177,C007,P04,2025-03-10,Belém,PA,12.5,atacado,congelados,Belém
+V0146,C044,P03,2025-03-11,Santarém,PA,45.5,restaurante,atacado,Santarém
+V0298,C019,P05,2025-03-11,Manaus,AM,45.5,atacado,complementos,Manaus
+V0169,C051,P02,2025-03-12,Santarém,PA,12.5,varejo,congelados,Santarém
+V0366,C008,P04,2025-03-12,Macapá,AP,25.0,restaurante,congelados,Macapá
+V0210,C053,P04,2025-03-13,Macapá,AP,12.5,restaurante,congelados,Macapá
+V0094,C025,P03,2025-03-14,Macapá,AP,65.0,atacado,atacado,Macapá
+V0156,C033,P01,2025-03-16,Belém,PA,65.0,varejo,congelados,Belém
+V0535,C054,P04,2025-03-16,Belém,PA,45.5,varejo,congelados,Belém
+V0354,C056,P04,2025-03-18,Macapá,AP,45.5,restaurante,congelados,Macapá
+V0611,C011,P01,2025-03-18,Macapá,AP,25.0,restaurante,congelados,Macapá
+V0717,C027,P05,2025-03-19,Santarém,PA,65.0,varejo,complementos,Santarém
+V0432,C055,P03,2025-03-20,Santarém,PA,25.0,atacado,atacado,Santarém
+V0128,C015,P04,2025-03-21,Macapá,AP,25.0,varejo,congelados,Macapá
+V0395,C023,P02,2025-03-22,Macapá,AP,12.5,restaurante,congelados,Macapá
+V0562,C030,P02,2025-03-22,Santarém,PA,32.4,varejo,congelados,Santarém
+V0436,C019,P01,2025-03-23,Manaus,AM,12.5,atacado,congelados,Manaus
+V0072,C008,P01,2025-03-25,Macapá,AP,45.5,restaurante,congelados,Macapá
+V0096,C019,P05,2025-03-25,Santana,AP,25.0,atacado,complementos,Macapá
+V0264,C053,P05,2025-03-25,Santarém,PA,25.0,restaurante,complementos,Santarém
+V0205,C013,P05,2025-03-26,Santana,AP,45.5,atacado,complementos,Macapá
+V0228,C015,P04,2025-03-26,Belém,PA,12.5,varejo,congelados,Belém
+V0193,C014,P06,2025-03-27,Belém,PA,12.5,restaurante,pronto para consumo,Belém
+V0415,C035,P04,2025-03-27,Manaus,AM,32.4,restaurante,congelados,Manaus
+V0442,C054,P01,2025-03-27,Santana,AP,32.4,varejo,congelados,Macapá
+V0567,C007,P03,2025-03-28,Santana,AP,25.0,atacado,atacado,Macapá
+V0618,C009,P04,2025-03-28,Santarém,PA,65.0,varejo,congelados,Santarém
+V0099,C034,P01,2025-03-29,Manaus,AM,65.0,atacado,congelados,Manaus
+V0334,C060,P03,2025-03-29,Belém,PA,45.5,varejo,atacado,Belém
+V0424,C003,P05,2025-03-29,Santarém,PA,18.9,varejo,complementos,Santarém
+V0439,C035,P05,2025-03-30,Belém,PA,12.5,restaurante,complementos,Belém
+V0050,C034,P04,2025-04-01,Santarém,PA,25.0,atacado,congelados,Santarém
+V0534,C052,P01,2025-04-01,Macapá,AP,32.4,atacado,congelados,Macapá
+V0699,C039,P06,2025-04-01,Santana,AP,25.0,varejo,pronto para consumo,Macapá
+V0215,C048,P05,2025-04-02,Manaus,AM,25.0,varejo,complementos,Manaus
+V0337,C006,P05,2025-04-02,Macapá,AP,32.4,varejo,complementos,Macapá
+V0352,C016,P01,2025-04-02,Belém,PA,45.5,atacado,congelados,Belém
+V0254,C041,P01,2025-04-03,Santarém,PA,32.4,restaurante,congelados,Santarém
+V0532,C058,P05,2025-04-03,Santarém,PA,32.4,atacado,complementos,Santarém
+V0132,C047,P05,2025-04-05,Macapá,AP,45.5,restaurante,complementos,Macapá
+V0494,C054,P03,2025-04-05,Macapá,AP,45.5,varejo,atacado,Macapá
+V0658,C020,P02,2025-04-05,Manaus,AM,25.0,restaurante,congelados,Manaus
+V0668,C007,P06,2025-04-05,Macapá,AP,65.0,atacado,pronto para consumo,Macapá
+V0152,C004,P02,2025-04-06,Santana,AP,65.0,atacado,congelados,Macapá
+V0325,C030,P02,2025-04-06,Belém,PA,12.5,varejo,congelados,Belém
+V0431,C034,P02,2025-04-06,Belém,PA,32.4,atacado,congelados,Belém
+V0166,C002,P05,2025-04-07,Santarém,PA,32.4,restaurante,complementos,Santarém
+V0297,C024,P04,2025-04-07,Santana,AP,18.9,varejo,congelados,Macapá
+V0443,C012,P05,2025-04-07,Manaus,AM,12.5,varejo,complementos,Manaus
+V0448,C007,P04,2025-04-07,Manaus,AM,32.4,atacado,congelados,Manaus
+V0694,C013,P05,2025-04-07,Macapá,AP,12.5,atacado,complementos,Macapá
+V0196,C042,P04,2025-04-08,Macapá,AP,65.0,varejo,congelados,Macapá
+V0243,C002,P05,2025-04-08,Manaus,AM,25.0,restaurante,complementos,Manaus
+V0283,C027,P03,2025-04-08,Santarém,PA,12.5,varejo,atacado,Santarém
+V0027,C055,P04,2025-04-10,Macapá,AP,65.0,atacado,congelados,Macapá
+V0295,C017,P06,2025-04-10,Santana,AP,45.5,restaurante,pronto para consumo,Macapá
+V0388,C032,P01,2025-04-10,Santarém,PA,65.0,restaurante,congelados,Santarém
+V0709,C018,P03,2025-04-11,Santarém,PA,45.5,varejo,atacado,Santarém
+V0266,C039,P03,2025-04-12,Macapá,AP,45.5,varejo,atacado,Macapá
+V0343,C003,P03,2025-04-13,Santarém,PA,18.9,varejo,atacado,Santarém
+V0344,C020,P05,2025-04-13,Macapá,AP,12.5,restaurante,complementos,Macapá
+V0526,C007,P06,2025-04-16,Manaus,AM,45.5,atacado,pronto para consumo,Manaus
+V0565,C003,P03,2025-04-16,Belém,PA,12.5,varejo,atacado,Belém
+V0263,C060,P06,2025-04-17,Belém,PA,65.0,varejo,pronto para consumo,Belém
+V0301,C008,P03,2025-04-17,Macapá,AP,25.0,restaurante,atacado,Macapá
+V0544,C051,P03,2025-04-17,Belém,PA,12.5,varejo,atacado,Belém
+V0604,C060,P04,2025-04-18,Manaus,AM,65.0,varejo,congelados,Manaus
+V0525,C022,P05,2025-04-19,Belém,PA,18.9,atacado,complementos,Belém
+V0399,C026,P06,2025-04-20,Santana,AP,45.5,restaurante,pronto para consumo,Macapá
+V0514,C048,P05,2025-04-20,Manaus,AM,65.0,varejo,complementos,Manaus
+V0470,C025,P06,2025-04-21,Santana,AP,65.0,atacado,pronto para consumo,Macapá
+V0479,C032,P03,2025-04-21,Macapá,AP,25.0,restaurante,atacado,Macapá
+V0189,C005,P05,2025-04-22,Belém,PA,45.5,restaurante,complementos,Belém
+V0393,C025,P01,2025-04-22,Belém,PA,12.5,atacado,congelados,Belém
+V0449,C021,P02,2025-04-22,Santarém,PA,25.0,varejo,congelados,Santarém
+V0292,C022,P03,2025-04-23,Manaus,AM,18.9,atacado,atacado,Manaus
+V0083,C033,P02,2025-04-24,Macapá,AP,65.0,varejo,congelados,Macapá
+V0410,C015,P04,2025-04-25,Macapá,AP,45.5,varejo,congelados,Macapá
+V0574,C029,P03,2025-04-25,Macapá,AP,12.5,restaurante,atacado,Macapá
+V0564,C041,P05,2025-04-26,Belém,PA,32.4,restaurante,complementos,Belém
+V0202,C026,P04,2025-04-27,Belém,PA,45.5,restaurante,congelados,Belém
+V0489,C018,P02,2025-04-27,Santarém,PA,12.5,varejo,congelados,Santarém
+V0052,C006,P04,2025-04-29,Santana,AP,12.5,varejo,congelados,Macapá
+V0685,C025,P03,2025-04-29,Belém,PA,18.9,atacado,atacado,Belém
+V0063,C020,P01,2025-05-01,Macapá,AP,12.5,restaurante,congelados,Macapá
+V0246,C020,P01,2025-05-01,Santarém,PA,25.0,restaurante,congelados,Santarém
+V0390,C024,P01,2025-05-01,Santana,AP,65.0,varejo,congelados,Macapá
+V0533,C058,P06,2025-05-01,Manaus,AM,25.0,atacado,pronto para consumo,Manaus
+V0639,C050,P04,2025-05-01,Santana,AP,32.4,restaurante,congelados,Macapá
+V0201,C053,P01,2025-05-02,Manaus,AM,32.4,restaurante,congelados,Manaus
+V0250,C029,P04,2025-05-02,Belém,PA,18.9,restaurante,congelados,Belém
+V0716,C054,P03,2025-05-02,Santarém,PA,25.0,varejo,atacado,Santarém
+V0418,C012,P01,2025-05-05,Macapá,AP,32.4,varejo,congelados,Macapá
+V0659,C051,P02,2025-05-07,Belém,PA,12.5,varejo,congelados,Belém
+V0681,C019,P04,2025-05-07,Macapá,AP,65.0,atacado,congelados,Macapá
+V0706,C060,P02,2025-05-07,Manaus,AM,12.5,varejo,congelados,Manaus
+V0006,C060,P03,2025-05-09,Santarém,PA,25.0,varejo,atacado,Santarém
+V0224,C048,P05,2025-05-09,Belém,PA,32.4,varejo,complementos,Belém
+V0262,C030,P03,2025-05-09,Manaus,AM,45.5,varejo,atacado,Manaus
+V0607,C008,P05,2025-05-10,Macapá,AP,32.4,restaurante,complementos,Macapá
+V0417,C026,P05,2025-05-11,Belém,PA,25.0,restaurante,complementos,Belém
+V0542,C052,P01,2025-05-12,Belém,PA,45.5,atacado,congelados,Belém
+V0587,C007,P05,2025-05-12,Belém,PA,32.4,atacado,complementos,Belém
+V0199,C057,P06,2025-05-13,Santarém,PA,12.5,varejo,pronto para consumo,Santarém
+V0362,C058,P03,2025-05-14,Belém,PA,45.5,atacado,atacado,Belém
+V0385,C009,P04,2025-05-14,Santana,AP,18.9,varejo,congelados,Macapá
+V0478,C042,P03,2025-05-14,Santana,AP,12.5,varejo,atacado,Macapá
+V0505,C057,P05,2025-05-14,Santana,AP,25.0,varejo,complementos,Macapá
+V0462,C025,P01,2025-05-15,Belém,PA,25.0,atacado,congelados,Belém
+V0676,C052,P05,2025-05-15,Manaus,AM,45.5,atacado,complementos,Manaus
+V0079,C009,P06,2025-05-16,Santarém,PA,25.0,varejo,pronto para consumo,Santarém
+V0315,C016,P04,2025-05-16,Macapá,AP,12.5,atacado,congelados,Macapá
+V0473,C033,P01,2025-05-16,Belém,PA,65.0,varejo,congelados,Belém
+V0474,C033,P01,2025-05-17,Manaus,AM,45.5,varejo,congelados,Manaus
+V0548,C043,P03,2025-05-18,Santarém,PA,25.0,atacado,atacado,Santarém
+V0602,C037,P01,2025-05-20,Santarém,PA,45.5,atacado,congelados,Santarém
+V0707,C015,P03,2025-05-20,Belém,PA,45.5,varejo,atacado,Belém
+V0137,C054,P06,2025-05-21,Belém,PA,45.5,varejo,pronto para consumo,Belém
+V0327,C057,P03,2025-05-21,Macapá,AP,65.0,varejo,atacado,Macapá
+V0484,C029,P04,2025-05-21,Santarém,PA,32.4,restaurante,congelados,Santarém
+V0516,C021,P01,2025-05-21,Macapá,AP,18.9,varejo,congelados,Macapá
+V0563,C021,P02,2025-05-21,Santarém,PA,25.0,varejo,congelados,Santarém
+V0672,C040,P05,2025-05-21,Santana,AP,12.5,atacado,complementos,Macapá
+V0490,C026,P01,2025-05-22,Belém,PA,65.0,restaurante,congelados,Belém
+V0206,C042,P02,2025-05-23,Santarém,PA,65.0,varejo,congelados,Santarém
+V0316,C030,P06,2025-05-23,Santana,AP,18.9,varejo,pronto para consumo,Macapá
+V0150,C053,P02,2025-05-24,Macapá,AP,25.0,restaurante,congelados,Macapá
+V0468,C039,P03,2025-05-26,Macapá,AP,45.5,varejo,atacado,Macapá
+V0282,C060,P03,2025-05-27,Macapá,AP,32.4,varejo,atacado,Macapá
+V0452,C003,P05,2025-05-27,Manaus,AM,32.4,varejo,complementos,Manaus
+V0626,C036,P01,2025-05-27,Santana,AP,18.9,varejo,congelados,Macapá
+V0167,C024,P04,2025-05-28,Belém,PA,65.0,varejo,congelados,Belém
+V0398,C037,P01,2025-05-28,Santana,AP,12.5,atacado,congelados,Macapá
+V0619,C012,P01,2025-05-28,Santana,AP,45.5,varejo,congelados,Macapá
+V0034,C027,P06,2025-05-29,Manaus,AM,12.5,varejo,pronto para consumo,Manaus
+V0605,C025,P02,2025-05-29,Santarém,PA,45.5,atacado,congelados,Santarém
+V0225,C053,P02,2025-06-01,Santarém,PA,25.0,restaurante,congelados,Santarém
+V0070,C021,P05,2025-06-02,Macapá,AP,32.4,varejo,complementos,Macapá
+V0154,C033,P03,2025-06-03,Macapá,AP,18.9,varejo,atacado,Macapá
+V0233,C055,P04,2025-06-03,Santana,AP,18.9,atacado,congelados,Macapá
+V0469,C015,P04,2025-06-03,Macapá,AP,18.9,varejo,congelados,Macapá
+V0684,C031,P04,2025-06-03,Santana,AP,45.5,atacado,congelados,Macapá
+V0105,C008,P03,2025-06-04,Manaus,AM,65.0,restaurante,atacado,Manaus
+V0673,C041,P05,2025-06-04,Manaus,AM,18.9,restaurante,complementos,Manaus
+V0214,C044,P05,2025-06-05,Santana,AP,45.5,restaurante,complementos,Macapá
+V0536,C002,P03,2025-06-06,Manaus,AM,32.4,restaurante,atacado,Manaus
+V0009,C055,P06,2025-06-08,Manaus,AM,12.5,atacado,pronto para consumo,Manaus
+V0095,C048,P05,2025-06-08,Belém,PA,12.5,varejo,complementos,Belém
+V0326,C027,P04,2025-06-08,Santana,AP,45.5,varejo,congelados,Macapá
+V0408,C047,P06,2025-06-08,Santarém,PA,25.0,restaurante,pronto para consumo,Santarém
+V0108,C049,P06,2025-06-09,Santarém,PA,25.0,atacado,pronto para consumo,Santarém
+V0265,C056,P05,2025-06-09,Belém,PA,12.5,restaurante,complementos,Belém
+V0643,C013,P04,2025-06-09,Belém,PA,18.9,atacado,congelados,Belém
+V0613,C023,P01,2025-06-10,Santarém,PA,18.9,restaurante,congelados,Santarém
+V0061,C017,P03,2025-06-11,Belém,PA,18.9,restaurante,atacado,Belém
+V0141,C022,P03,2025-06-12,Santarém,PA,65.0,atacado,atacado,Santarém
+V0323,C016,P06,2025-06-12,Belém,PA,65.0,atacado,pronto para consumo,Belém
+V0001,C033,P06,2025-06-13,Macapá,AP,45.5,varejo,pronto para consumo,Macapá
+V0386,C003,P01,2025-06-13,Santarém,PA,25.0,varejo,congelados,Santarém
+V0455,C058,P03,2025-06-15,Manaus,AM,12.5,atacado,atacado,Manaus
+V0109,C033,P05,2025-06-16,Santana,AP,32.4,varejo,complementos,Macapá
+V0270,C025,P03,2025-06-16,Manaus,AM,45.5,atacado,atacado,Manaus
+V0332,C059,P03,2025-06-16,Santana,AP,45.5,restaurante,atacado,Macapá
+V0596,C029,P03,2025-06-16,Santarém,PA,12.5,restaurante,atacado,Santarém
+V0472,C010,P03,2025-06-17,Manaus,AM,25.0,atacado,atacado,Manaus
+V0476,C035,P03,2025-06-17,Santana,AP,18.9,restaurante,atacado,Macapá
+V0114,C021,P03,2025-06-18,Belém,PA,12.5,varejo,atacado,Belém
+V0158,C011,P05,2025-06-18,Belém,PA,12.5,restaurante,complementos,Belém
+V0539,C050,P02,2025-06-18,Belém,PA,32.4,restaurante,congelados,Belém
+V0274,C017,P04,2025-06-19,Macapá,AP,32.4,restaurante,congelados,Macapá
+V0661,C048,P05,2025-06-20,Santana,AP,32.4,varejo,complementos,Macapá
+V0229,C035,P04,2025-06-21,Manaus,AM,65.0,restaurante,congelados,Manaus
+V0647,C041,P02,2025-06-21,Belém,PA,45.5,restaurante,congelados,Belém
+V0236,C020,P04,2025-06-22,Manaus,AM,45.5,restaurante,congelados,Manaus
+V0447,C021,P04,2025-06-22,Santana,AP,32.4,varejo,congelados,Macapá
+V0355,C039,P06,2025-06-23,Macapá,AP,32.4,varejo,pronto para consumo,Macapá
+V0679,C003,P01,2025-06-23,Santana,AP,65.0,varejo,congelados,Macapá
+V0081,C034,P06,2025-06-24,Belém,PA,65.0,atacado,pronto para consumo,Belém
+V0247,C010,P04,2025-06-24,Macapá,AP,65.0,atacado,congelados,Macapá
+V0249,C012,P01,2025-06-24,Santarém,PA,45.5,varejo,congelados,Santarém
+V0711,C026,P03,2025-06-24,Macapá,AP,45.5,restaurante,atacado,Macapá
+V0071,C036,P01,2025-06-25,Manaus,AM,18.9,varejo,congelados,Manaus
+V0085,C024,P03,2025-06-25,Belém,PA,18.9,varejo,atacado,Belém
+V0216,C012,P06,2025-06-25,Macapá,AP,65.0,varejo,pronto para consumo,Macapá
+V0559,C021,P06,2025-06-25,Santana,AP,32.4,varejo,pronto para consumo,Macapá
+V0311,C035,P01,2025-06-26,Manaus,AM,32.4,restaurante,congelados,Manaus
+V0689,C014,P04,2025-06-26,Macapá,AP,65.0,restaurante,congelados,Macapá
+V0245,C034,P06,2025-06-27,Manaus,AM,65.0,atacado,pronto para consumo,Manaus
+V0238,C049,P04,2025-06-29,Manaus,AM,25.0,atacado,congelados,Manaus
+V0054,C023,P05,2025-06-30,Macapá,AP,18.9,restaurante,complementos,Macapá
+V0512,C038,P01,2025-06-30,Belém,PA,32.4,restaurante,congelados,Belém
+V0463,C023,P06,2025-07-01,Macapá,AP,32.4,restaurante,pronto para consumo,Macapá
+V0059,C052,P02,2025-07-02,Macapá,AP,65.0,atacado,congelados,Macapá
+V0068,C048,P06,2025-07-02,Belém,PA,12.5,varejo,pronto para consumo,Belém
+V0212,C048,P06,2025-07-02,Manaus,AM,12.5,varejo,pronto para consumo,Manaus
+V0170,C025,P05,2025-07-03,Santana,AP,32.4,atacado,complementos,Macapá
+V0569,C052,P02,2025-07-03,Santarém,PA,65.0,atacado,congelados,Santarém
+V0606,C042,P05,2025-07-03,Belém,PA,65.0,varejo,complementos,Belém
+V0272,C030,P01,2025-07-04,Macapá,AP,32.4,varejo,congelados,Macapá
+V0404,C059,P02,2025-07-04,Macapá,AP,25.0,restaurante,congelados,Macapá
+V0502,C042,P05,2025-07-04,Belém,PA,25.0,varejo,complementos,Belém
+V0378,C028,P06,2025-07-06,Manaus,AM,65.0,atacado,pronto para consumo,Manaus
+V0554,C056,P04,2025-07-06,Santarém,PA,18.9,restaurante,congelados,Santarém
+V0570,C044,P06,2025-07-06,Macapá,AP,45.5,restaurante,pronto para consumo,Macapá
+V0136,C054,P04,2025-07-07,Santarém,PA,25.0,varejo,congelados,Santarém
+V0291,C043,P01,2025-07-07,Macapá,AP,45.5,atacado,congelados,Macapá
+V0102,C014,P05,2025-07-08,Macapá,AP,25.0,restaurante,complementos,Macapá
+V0475,C034,P03,2025-07-09,Santarém,PA,25.0,atacado,atacado,Santarém
+V0269,C049,P06,2025-07-10,Macapá,AP,32.4,atacado,pronto para consumo,Macapá
+V0595,C041,P03,2025-07-11,Santana,AP,25.0,restaurante,atacado,Macapá
+V0693,C037,P06,2025-07-11,Belém,PA,18.9,atacado,pronto para consumo,Belém
+V0321,C056,P02,2025-07-12,Santarém,PA,25.0,restaurante,congelados,Santarém
+V0367,C015,P06,2025-07-12,Santana,AP,25.0,varejo,pronto para consumo,Macapá
+V0221,C041,P01,2025-07-15,Santana,AP,65.0,restaurante,congelados,Macapá
+V0048,C012,P03,2025-07-16,Macapá,AP,25.0,varejo,atacado,Macapá
+V0075,C016,P04,2025-07-16,Santarém,PA,32.4,atacado,congelados,Santarém
+V0143,C007,P05,2025-07-16,Manaus,AM,65.0,atacado,complementos,Manaus
+V0223,C029,P04,2025-07-17,Macapá,AP,25.0,restaurante,congelados,Macapá
+V0271,C023,P03,2025-07-17,Belém,PA,65.0,restaurante,atacado,Belém
+V0513,C058,P05,2025-07-17,Macapá,AP,45.5,atacado,complementos,Macapá
+V0329,C033,P04,2025-07-18,Macapá,AP,45.5,varejo,congelados,Macapá
+V0047,C028,P05,2025-07-19,Santana,AP,25.0,atacado,complementos,Macapá
+V0318,C009,P02,2025-07-21,Santana,AP,65.0,varejo,congelados,Macapá
+V0412,C030,P01,2025-07-21,Manaus,AM,25.0,varejo,congelados,Manaus
+V0363,C053,P03,2025-07-22,Santarém,PA,18.9,restaurante,atacado,Santarém
+V0568,C022,P04,2025-07-22,Macapá,AP,65.0,atacado,congelados,Macapá
+V0012,C017,P04,2025-07-23,Santarém,PA,45.5,restaurante,congelados,Santarém
+V0662,C040,P06,2025-07-23,Manaus,AM,12.5,atacado,pronto para consumo,Manaus
+V0043,C013,P06,2025-07-24,Manaus,AM,12.5,atacado,pronto para consumo,Manaus
+V0347,C023,P01,2025-07-25,Belém,PA,18.9,restaurante,congelados,Belém
+V0409,C018,P06,2025-07-25,Santarém,PA,12.5,varejo,pronto para consumo,Santarém
+V0642,C034,P05,2025-07-25,Macapá,AP,12.5,atacado,complementos,Macapá
+V0381,C007,P02,2025-07-26,Manaus,AM,65.0,atacado,congelados,Manaus
+V0190,C052,P01,2025-07-27,Santarém,PA,12.5,atacado,congelados,Santarém
+V0053,C051,P06,2025-07-28,Belém,PA,45.5,varejo,pronto para consumo,Belém
+V0112,C025,P02,2025-07-29,Belém,PA,45.5,atacado,congelados,Belém
+V0615,C047,P02,2025-07-29,Santarém,PA,12.5,restaurante,congelados,Santarém
+V0258,C006,P05,2025-07-30,Macapá,AP,65.0,varejo,complementos,Macapá
+V0153,C040,P04,2025-07-31,Santana,AP,65.0,atacado,congelados,Macapá
+V0591,C033,P04,2025-08-01,Macapá,AP,65.0,varejo,congelados,Macapá
+V0597,C004,P01,2025-08-01,Santana,AP,12.5,atacado,congelados,Macapá
+V0130,C034,P06,2025-08-02,Manaus,AM,65.0,atacado,pronto para consumo,Manaus
+V0182,C032,P02,2025-08-03,Belém,PA,12.5,restaurante,congelados,Belém
+V0330,C008,P06,2025-08-03,Belém,PA,12.5,restaurante,pronto para consumo,Belém
+V0353,C003,P05,2025-08-03,Santana,AP,32.4,varejo,complementos,Macapá
+V0359,C024,P05,2025-08-03,Manaus,AM,12.5,varejo,complementos,Manaus
+V0581,C025,P01,2025-08-03,Manaus,AM,65.0,atacado,congelados,Manaus
+V0159,C028,P02,2025-08-05,Macapá,AP,65.0,atacado,congelados,Macapá
+V0251,C006,P01,2025-08-05,Manaus,AM,18.9,varejo,congelados,Manaus
+V0252,C029,P04,2025-08-05,Santarém,PA,12.5,restaurante,congelados,Santarém
+V0697,C022,P06,2025-08-05,Manaus,AM,45.5,atacado,pronto para consumo,Manaus
+V0457,C017,P06,2025-08-08,Belém,PA,12.5,restaurante,pronto para consumo,Belém
+V0719,C049,P01,2025-08-08,Macapá,AP,65.0,atacado,congelados,Macapá
+V0019,C019,P03,2025-08-10,Santarém,PA,18.9,atacado,atacado,Santarém
+V0187,C038,P01,2025-08-10,Belém,PA,65.0,restaurante,congelados,Belém
+V0312,C060,P06,2025-08-10,Macapá,AP,32.4,varejo,pronto para consumo,Macapá
+V0257,C045,P02,2025-08-11,Belém,PA,12.5,varejo,congelados,Belém
+V0183,C050,P01,2025-08-13,Santana,AP,18.9,restaurante,congelados,Macapá
+V0625,C053,P01,2025-08-13,Manaus,AM,32.4,restaurante,congelados,Manaus
+V0204,C040,P02,2025-08-14,Macapá,AP,65.0,atacado,congelados,Macapá
+V0546,C021,P02,2025-08-14,Santana,AP,25.0,varejo,congelados,Macapá
+V0425,C037,P03,2025-08-15,Manaus,AM,32.4,atacado,atacado,Manaus
+V0553,C001,P06,2025-08-15,Manaus,AM,18.9,atacado,pronto para consumo,Manaus
+V0342,C013,P05,2025-08-16,Macapá,AP,12.5,atacado,complementos,Macapá
+V0491,C025,P04,2025-08-17,Macapá,AP,25.0,atacado,congelados,Macapá
+V0515,C031,P03,2025-08-17,Santana,AP,12.5,atacado,atacado,Macapá
+V0708,C003,P04,2025-08-17,Manaus,AM,25.0,varejo,congelados,Manaus
+V0039,C059,P01,2025-08-19,Belém,PA,25.0,restaurante,congelados,Belém
+V0375,C020,P01,2025-08-19,Manaus,AM,12.5,restaurante,congelados,Manaus
+V0025,C028,P06,2025-08-20,Belém,PA,18.9,atacado,pronto para consumo,Belém
+V0538,C020,P04,2025-08-20,Macapá,AP,12.5,restaurante,congelados,Macapá
+V0577,C016,P04,2025-08-20,Manaus,AM,45.5,atacado,congelados,Manaus
+V0634,C033,P05,2025-08-20,Belém,PA,25.0,varejo,complementos,Belém
+V0277,C044,P05,2025-08-22,Manaus,AM,12.5,restaurante,complementos,Manaus
+V0585,C049,P06,2025-08-23,Santana,AP,25.0,atacado,pronto para consumo,Macapá
+V0335,C049,P06,2025-08-24,Belém,PA,45.5,atacado,pronto para consumo,Belém
+V0583,C007,P03,2025-08-24,Belém,PA,25.0,atacado,atacado,Belém
+V0683,C019,P01,2025-08-24,Macapá,AP,32.4,atacado,congelados,Macapá
+V0010,C006,P04,2025-08-25,Belém,PA,32.4,varejo,congelados,Belém
+V0066,C044,P01,2025-08-25,Manaus,AM,32.4,restaurante,congelados,Manaus
+V0376,C004,P01,2025-08-25,Macapá,AP,45.5,atacado,congelados,Macapá
+V0049,C050,P04,2025-08-26,Belém,PA,32.4,restaurante,congelados,Belém
+V0144,C014,P04,2025-08-26,Macapá,AP,18.9,restaurante,congelados,Macapá
+V0294,C023,P02,2025-08-26,Santana,AP,45.5,restaurante,congelados,Macapá
+V0022,C050,P04,2025-08-27,Santarém,PA,45.5,restaurante,congelados,Santarém
+V0433,C018,P04,2025-08-28,Macapá,AP,32.4,varejo,congelados,Macapá
+V0511,C052,P03,2025-08-28,Santarém,PA,45.5,atacado,atacado,Santarém
+V0691,C009,P03,2025-08-28,Macapá,AP,18.9,varejo,atacado,Macapá
+V0033,C009,P05,2025-08-31,Santana,AP,45.5,varejo,complementos,Macapá
+V0584,C013,P02,2025-09-01,Santarém,PA,65.0,atacado,congelados,Santarém
+V0655,C025,P06,2025-09-01,Santana,AP,12.5,atacado,pronto para consumo,Macapá
+V0631,C029,P03,2025-09-02,Belém,PA,45.5,restaurante,atacado,Belém
+V0594,C006,P02,2025-09-03,Santarém,PA,25.0,varejo,congelados,Santarém
+V0045,C044,P01,2025-09-05,Santana,AP,65.0,restaurante,congelados,Macapá
+V0519,C020,P04,2025-09-05,Belém,PA,12.5,restaurante,congelados,Belém
+V0576,C020,P03,2025-09-05,Santarém,PA,32.4,restaurante,atacado,Santarém
+V0617,C054,P05,2025-09-07,Manaus,AM,65.0,varejo,complementos,Manaus
+V0021,C059,P02,2025-09-08,Manaus,AM,25.0,restaurante,congelados,Manaus
+V0503,C035,P05,2025-09-08,Santarém,PA,12.5,restaurante,complementos,Santarém
+V0566,C026,P01,2025-09-08,Macapá,AP,18.9,restaurante,congelados,Macapá
+V0675,C005,P03,2025-09-08,Macapá,AP,12.5,restaurante,atacado,Macapá
+V0003,C029,P02,2025-09-09,Manaus,AM,45.5,restaurante,congelados,Manaus
+V0032,C047,P02,2025-09-09,Manaus,AM,65.0,restaurante,congelados,Manaus
+V0501,C027,P04,2025-09-09,Belém,PA,25.0,varejo,congelados,Belém
+V0633,C053,P06,2025-09-09,Manaus,AM,65.0,restaurante,pronto para consumo,Manaus
+V0492,C045,P03,2025-09-11,Macapá,AP,18.9,varejo,atacado,Macapá
+V0426,C008,P01,2025-09-12,Manaus,AM,12.5,restaurante,congelados,Manaus
+V0011,C028,P05,2025-09-13,Manaus,AM,12.5,atacado,complementos,Manaus
+V0364,C051,P05,2025-09-13,Santarém,PA,32.4,varejo,complementos,Santarém
+V0067,C060,P03,2025-09-14,Belém,PA,65.0,varejo,atacado,Belém
+V0561,C037,P01,2025-09-14,Macapá,AP,12.5,atacado,congelados,Macapá
+V0218,C031,P01,2025-09-15,Manaus,AM,65.0,atacado,congelados,Manaus
+V0504,C013,P01,2025-09-15,Santarém,PA,25.0,atacado,congelados,Santarém
+V0588,C014,P01,2025-09-17,Macapá,AP,18.9,restaurante,congelados,Macapá
+V0571,C023,P05,2025-09-18,Manaus,AM,65.0,restaurante,complementos,Manaus
+V0665,C045,P02,2025-09-18,Santarém,PA,32.4,varejo,congelados,Santarém
+V0237,C052,P06,2025-09-19,Manaus,AM,25.0,atacado,pronto para consumo,Manaus
+V0013,C052,P01,2025-09-20,Santarém,PA,45.5,atacado,congelados,Santarém
+V0126,C040,P06,2025-09-21,Santarém,PA,25.0,atacado,pronto para consumo,Santarém
+V0208,C053,P04,2025-09-22,Manaus,AM,18.9,restaurante,congelados,Manaus
+V0498,C032,P05,2025-09-22,Santarém,PA,45.5,restaurante,complementos,Santarém
+V0427,C051,P04,2025-09-23,Manaus,AM,45.5,varejo,congelados,Manaus
+V0572,C053,P02,2025-09-23,Santana,AP,18.9,restaurante,congelados,Macapá
+V0036,C025,P01,2025-09-24,Santana,AP,18.9,atacado,congelados,Macapá
+V0041,C028,P05,2025-09-24,Manaus,AM,18.9,atacado,complementos,Manaus
+V0168,C057,P03,2025-09-24,Santarém,PA,32.4,varejo,atacado,Santarém
+V0188,C034,P01,2025-09-24,Manaus,AM,18.9,atacado,congelados,Manaus
+V0405,C021,P03,2025-09-24,Santarém,PA,65.0,varejo,atacado,Santarém
+V0524,C020,P02,2025-09-24,Santana,AP,18.9,restaurante,congelados,Macapá
+V0073,C039,P06,2025-09-25,Santana,AP,25.0,varejo,pronto para consumo,Macapá
+V0543,C015,P02,2025-09-25,Manaus,AM,18.9,varejo,congelados,Manaus
+V0192,C059,P03,2025-09-26,Santana,AP,25.0,restaurante,atacado,Macapá
+V0255,C028,P01,2025-09-26,Manaus,AM,18.9,atacado,congelados,Manaus
+V0288,C010,P02,2025-09-26,Santarém,PA,45.5,atacado,congelados,Santarém
+V0051,C051,P03,2025-09-27,Macapá,AP,45.5,varejo,atacado,Macapá
+V0173,C007,P03,2025-09-27,Manaus,AM,45.5,atacado,atacado,Manaus
+V0379,C059,P04,2025-09-27,Santarém,PA,18.9,restaurante,congelados,Santarém
+V0382,C026,P01,2025-09-28,Santana,AP,25.0,restaurante,congelados,Macapá
+V0147,C047,P05,2025-09-30,Santarém,PA,45.5,restaurante,complementos,Santarém
+V0178,C002,P01,2025-10-01,Santana,AP,25.0,restaurante,congelados,Macapá
+V0528,C026,P02,2025-10-02,Belém,PA,32.4,restaurante,congelados,Belém
+V0008,C019,P04,2025-10-03,Manaus,AM,25.0,atacado,congelados,Manaus
+V0055,C008,P05,2025-10-03,Manaus,AM,18.9,restaurante,complementos,Manaus
+V0293,C008,P05,2025-10-03,Belém,PA,45.5,restaurante,complementos,Belém
+V0151,C023,P02,2025-10-04,Belém,PA,65.0,restaurante,congelados,Belém
+V0307,C040,P02,2025-10-04,Belém,PA,65.0,atacado,congelados,Belém
+V0419,C053,P02,2025-10-04,Santarém,PA,18.9,restaurante,congelados,Santarém
+V0017,C036,P04,2025-10-07,Santarém,PA,25.0,varejo,congelados,Santarém
+V0090,C017,P02,2025-10-07,Belém,PA,65.0,restaurante,congelados,Belém
+V0392,C050,P01,2025-10-07,Santarém,PA,12.5,restaurante,congelados,Santarém
+V0422,C032,P05,2025-10-07,Belém,PA,12.5,restaurante,complementos,Belém
+V0018,C033,P06,2025-10-08,Belém,PA,65.0,varejo,pronto para consumo,Belém
+V0086,C058,P06,2025-10-08,Santarém,PA,32.4,atacado,pronto para consumo,Santarém
+V0226,C014,P02,2025-10-08,Manaus,AM,12.5,restaurante,congelados,Manaus
+V0622,C048,P06,2025-10-08,Santana,AP,65.0,varejo,pronto para consumo,Macapá
+V0648,C022,P01,2025-10-08,Santana,AP,18.9,atacado,congelados,Macapá
+V0118,C022,P06,2025-10-09,Macapá,AP,65.0,atacado,pronto para consumo,Macapá
+V0324,C055,P02,2025-10-09,Belém,PA,12.5,atacado,congelados,Belém
+V0336,C018,P03,2025-10-09,Macapá,AP,18.9,varejo,atacado,Macapá
+V0467,C033,P05,2025-10-09,Macapá,AP,65.0,varejo,complementos,Macapá
+V0521,C031,P01,2025-10-09,Santana,AP,32.4,atacado,congelados,Macapá
+V0669,C019,P03,2025-10-09,Santarém,PA,25.0,atacado,atacado,Santarém
+V0056,C047,P02,2025-10-12,Belém,PA,45.5,restaurante,congelados,Belém
+V0127,C013,P05,2025-10-12,Macapá,AP,65.0,atacado,complementos,Macapá
+V0122,C017,P02,2025-10-14,Belém,PA,65.0,restaurante,congelados,Belém
+V0163,C031,P01,2025-10-14,Santarém,PA,45.5,atacado,congelados,Santarém
+V0338,C001,P06,2025-10-14,Santarém,PA,65.0,atacado,pronto para consumo,Santarém
+V0547,C051,P03,2025-10-14,Belém,PA,18.9,varejo,atacado,Belém
+V0142,C049,P03,2025-10-15,Macapá,AP,18.9,atacado,atacado,Macapá
+V0057,C043,P05,2025-10-16,Belém,PA,25.0,atacado,complementos,Belém
+V0175,C025,P06,2025-10-16,Santarém,PA,12.5,atacado,pronto para consumo,Santarém

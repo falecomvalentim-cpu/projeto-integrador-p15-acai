@@ -1,0 +1,302 @@
+[
+  {
+    "cliente_id": "C001",
+    "nome": " Cliente Ficticio 001 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C002",
+    "nome": " Cliente Ficticio 002 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C003",
+    "nome": " Cliente Ficticio 003 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C004",
+    "nome": " Cliente Ficticio 004 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C005",
+    "nome": " Cliente Ficticio 005 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C006",
+    "nome": " Cliente Ficticio 006 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C007",
+    "nome": " Cliente Ficticio 007 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C008",
+    "nome": " Cliente Ficticio 008 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C009",
+    "nome": " Cliente Ficticio 009 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C010",
+    "nome": " Cliente Ficticio 010 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C011",
+    "nome": " Cliente Ficticio 011 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C012",
+    "nome": " Cliente Ficticio 012 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C013",
+    "nome": " Cliente Ficticio 013 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C014",
+    "nome": " Cliente Ficticio 014 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C015",
+    "nome": " Cliente Ficticio 015 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C016",
+    "nome": " Cliente Ficticio 016 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C017",
+    "nome": " Cliente Ficticio 017 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C018",
+    "nome": " Cliente Ficticio 018 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C019",
+    "nome": " Cliente Ficticio 019 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C020",
+    "nome": " Cliente Ficticio 020 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C021",
+    "nome": " Cliente Ficticio 021 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C022",
+    "nome": " Cliente Ficticio 022 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C023",
+    "nome": " Cliente Ficticio 023 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C024",
+    "nome": " Cliente Ficticio 024 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C025",
+    "nome": " Cliente Ficticio 025 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C026",
+    "nome": " Cliente Ficticio 026 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C027",
+    "nome": " Cliente Ficticio 027 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C028",
+    "nome": " Cliente Ficticio 028 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C029",
+    "nome": " Cliente Ficticio 029 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C030",
+    "nome": " Cliente Ficticio 030 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C031",
+    "nome": " Cliente Ficticio 031 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C032",
+    "nome": " Cliente Ficticio 032 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C033",
+    "nome": " Cliente Ficticio 033 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C034",
+    "nome": " Cliente Ficticio 034 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C035",
+    "nome": " Cliente Ficticio 035 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C036",
+    "nome": " Cliente Ficticio 036 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C037",
+    "nome": " Cliente Ficticio 037 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C038",
+    "nome": " Cliente Ficticio 038 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C039",
+    "nome": " Cliente Ficticio 039 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C040",
+    "nome": " Cliente Ficticio 040 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C041",
+    "nome": " Cliente Ficticio 041 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C042",
+    "nome": " Cliente Ficticio 042 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C043",
+    "nome": " Cliente Ficticio 043 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C044",
+    "nome": " Cliente Ficticio 044 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C045",
+    "nome": " Cliente Ficticio 045 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C046",
+    "nome": " Cliente Ficticio 046 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C047",
+    "nome": " Cliente Ficticio 047 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C048",
+    "nome": " Cliente Ficticio 048 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C049",
+    "nome": " Cliente Ficticio 049 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C050",
+    "nome": " Cliente Ficticio 050 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C051",
+    "nome": " Cliente Ficticio 051 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C052",
+    "nome": " Cliente Ficticio 052 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C053",
+    "nome": " Cliente Ficticio 053 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C054",
+    "nome": " Cliente Ficticio 054 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C055",
+    "nome": " Cliente Ficticio 055 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C056",
+    "nome": " Cliente Ficticio 056 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C057",
+    "nome": " Cliente Ficticio 057 ",
+    "segmento": "varejo"
+  },
+  {
+    "cliente_id": "C058",
+    "nome": " Cliente Ficticio 058 ",
+    "segmento": "atacado"
+  },
+  {
+    "cliente_id": "C059",
+    "nome": " Cliente Ficticio 059 ",
+    "segmento": "restaurante"
+  },
+  {
+    "cliente_id": "C060",
+    "nome": " Cliente Ficticio 060 ",
+    "segmento": "varejo"
+  }
+]
