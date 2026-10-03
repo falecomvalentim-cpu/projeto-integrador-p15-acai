@@ -74,7 +74,7 @@ O teste da M5 já era conhecido: esta extensão não é um novo experimento inde
 
 ## Entrega no Moodle
 
-Informar um **link acessível do repositório Git** no campo de texto e anexar **notebooks/final.ipynb**. Este diretório é a raiz a publicar, sem runtimes locais, credenciais ou entregas M3/M4/M5. A publicação remota depende da definição da conta e do repositório de destino. Nenhum envio ao Moodle é realizado automaticamente.
+Informar um **link acessível do repositório Git** no campo de texto e anexar **notebooks/final.ipynb**. Este diretório é a raiz a publicar, sem runtimes locais, credenciais ou entregas M3/M4/M5. Repositório público: https://github.com/falecomvalentim-cpu/projeto-integrador-p15-acai . Nenhum envio ao Moodle é realizado automaticamente.
 
 ## Execução verificada em 03/10/2026
 
